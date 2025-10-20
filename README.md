@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Lilla</h1>
-<h3 align="center">An eager software student</h3>
+<h1 align="left">Hi 👋, I'm Lilla</h1>
+<h3 align="left">An eager software student</h3>
 
 
 - 🌱 I’m currently learning **Rust and JS frameworks**
