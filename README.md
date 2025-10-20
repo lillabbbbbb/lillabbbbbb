@@ -2,7 +2,7 @@
 <h3 align="center">An eager software student</h3>
 
 
-- 🌱 I’m currently learning **Rust, Node.js, Express.js and Docker**
+- 🌱 I’m currently learning **Rust and JS frameworks**
 
 - 💬 Ask me about **Java**
 
