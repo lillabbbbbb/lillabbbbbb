@@ -2,7 +2,7 @@
 <h3 align="left">I'm Lilla, an ambitious and energetic software student</h3>
 
 
-- 🌱 I’m currently learning **Rust and JS frameworks**. Because web development rocks.
+- 🌱 I’m currently learning **Rust and .js frameworks**. Because web development rocks.
 
 - 💬 Ask me about **Java**. You will not regret it!
 
